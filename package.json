@@ -28,5 +28,5 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {},
-  "homepage": "https://aech12.github.io/resume/."
+  "homepage": "https://aech12.github.io/resume/"
 }
