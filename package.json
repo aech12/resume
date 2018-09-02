@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.3",
+    "gh-pages": "^1.2.0",
     "npm": "^6.4.0",
     "react": "^16.4.2",
     "react-bootstrap": "^0.32.3",
@@ -27,5 +28,5 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {},
-  "homepage": "https://github.com/aech12/resume.git"
+  "homepage": "https://aech12.github.io/resume/."
 }
