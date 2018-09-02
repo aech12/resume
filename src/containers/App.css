@@ -1,0 +1,23 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+}
+
+.content {
+  display: grid;
+  grid-template-rows: 6fr 4fr 4fr;
+  /* grid-template-columns: 50% 50%; */
+  grid-gap: 20px;
+  margin: 10px;
+}
+
+/* .ia {
+  display: grid;
+  grid-column: 1 / 3;
+  grid-row-start: span 2;
+} */
+
+.ic {
+  display: flex;
+  grid-template-columns: 50% 50%;
+  align-self: center;
+}
