@@ -1,6 +1,3 @@
-/* .Me {
-    height: 85vh;
-} */
 @import url('https://fonts.googleapis.com/css?family=Adamina|Montserrat+Alternates|Press+Start+2P|Rock+Salt');
 
 h1 {
@@ -18,4 +15,15 @@ ul {
 h3 {
     text-align: center;
     padding: 10px;
+    text-wrap: wrap;
+}
+
+@media screen and (max-width : 400px)
+{
+  ul {
+      padding: 0;
+  }
+  h3 {
+      padding: 0;
+  }
 }

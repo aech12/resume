@@ -10,9 +10,9 @@ const Bio = () => {
         >
         <span id='BioId'>
         <p>I'm 24 years old, on my first CS year.</p>
-        <p>I make my code as simple and mantainable as I can.</p>
+        <p>Simple code is a must.</p>
         <p>I always try to make my websites fast and minimalistic.</p>
-        <p>Learning is a daily habit to me.</p>
+        <p>Learning is a daily habit to me!</p>
         <p>Looking forward to learn the technologies of the future.</p>
         </span>
         </div>

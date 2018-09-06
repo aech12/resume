@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Me from '../components/Me';
-import Projects from '../components/Projects';
-import Bio from '../components/Bio';
+import Projects from '../components/Projects/Projects';
+import Bio from '../components/Bio/Bio';
 import Footer from '../components/Footer';
 import Topbar from '../components/Topbar';
 import './App.css';
